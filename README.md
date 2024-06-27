@@ -76,15 +76,6 @@ Challenges faced during the project and their solutions:
 - Handling large datasets: Used efficient data processing techniques.
 - Missing data: Implemented strategies to handle missing values effectively.
 
-## Conclusion
-Provide a summary of the project outcomes and its significance.
-
-## Future Work
-Suggest possible future improvements or extensions of the project.
-
-## How to Run the Project
-Provide step-by-step instructions on how to set up and run the project on a local machine.
-
 ## Contributors
 Guillermo Del Rio
 
